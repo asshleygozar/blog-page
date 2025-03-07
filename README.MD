@@ -1,7 +1,7 @@
 # Blog Website about me
-A very simple website about my hobbies and field of interests
+A very simple website about the tools I work upon and field of interests
 ## Contents
 - Name
-- Hobbies
+- Tools I work upon
 - Field of Interests
-- Philosophy
+- Socials
